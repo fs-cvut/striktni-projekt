@@ -1,5 +1,6 @@
 Co je potreba studovat:
 
-  - [ ] Cestinu
-  - [ ] Matematiku
-  - [ ] Prirodopis
+  - [x] Cestinu
+  - [x] Matematiku
+  - [x] Prirodopis
+ - už radši nic
